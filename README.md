@@ -1,7 +1,6 @@
 # Exploring-India-s-Air-Pollution-with-Tableau
 
 ## Context:
-Context
 Since industrialization, there has been an increasing concern about environmental pollution. As mentioned in the WHO report 7 million premature deaths annually are linked to air pollution, air pollution is the world's largest single environmental risk. 
 Moreover as reported in the NY Times article, India’s Air Pollution Rivals China’s as World’s Deadliest it has been found that India's air pollution is deadlier than China's.
 
@@ -66,3 +65,5 @@ f. Timeline Integration:
 
 g. Map Integration:
 - Integrates geographical maps with color-coded markers to represent air quality levels across states.
+
+Link: https://public.tableau.com/app/profile/shalini.kumari3896/viz/AirQualityDashboard_17065511609820/Dashboard1?publish=yes 
